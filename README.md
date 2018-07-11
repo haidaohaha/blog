@@ -18,10 +18,19 @@ _知道差距，巨大差距_
 
 ---  
 
-* July 10, 2018 **»** [每日一题」CSRF 是什么？(后端)](https://zhuanlan.zhihu.com/p/22521378)  
-     <font color=#666 size=2 face="华文行楷">一句话：真能拖拉</font>
-* July 10, 2018 **»** [每日一题」XSS 是什么？(后端)](https://zhuanlan.zhihu.com/p/22500730)  
-     <font color=#666 size=2 face="华文行楷">一句话：真能拖拉</font>
+* July 11, 2018 **»** [每日一题」Commit message 和 Change log 编写指南？](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)  
+     <font color=#666 size=2 face="华文行楷">一句话：半年之久，我都逃避深入了解和使用Git和不看GitHub😅，先从提交规范改起</font>
+* July 11, 2018 **»** [每日一题」界面之下：还原真实的MV*模式 ](https://github.com/livoras/blog/issues/11)  
+     <font color=#666 size=2 face="华文行楷">一句话：挠着头买看完，需再看</font>
+* July 11, 2018 **»** [每日一题」git(十六) git rebase 实战 ](https://blog.csdn.net/wzq6578702/article/details/76736008)  
+     <font color=#666 size=2 face="华文行楷">一句话：解决前蔫了，解决后满血</font>
+
+---  
+
+* July 10, 2018 **»** [每日一题」CSRF 是什么？](https://zhuanlan.zhihu.com/p/22521378)  
+     <font color=#666 size=2 face="华文行楷">一句话：看完我只记得警察来了😅</font>
+* July 10, 2018 **»** [每日一题」XSS 是什么？](https://zhuanlan.zhihu.com/p/22500730)  
+     <font color=#666 size=2 face="华文行楷">一句话：看完竟然没反应过来，同时发评论或者说‘守株待兔’坐等‘你’发</font>
 
 ---
 
