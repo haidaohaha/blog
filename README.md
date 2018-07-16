@@ -18,6 +18,15 @@ _知道差距，巨大差距_
 
 ---
 
+-   July 16, 2018 **»** [每日一看」webpack详解](https://juejin.im/post/5aa3d2056fb9a028c36868aa)  
+     <font color=#666 size=2 face="华文行楷">一句话：终于可以系统的了解webpack - 多看</font>
+-   July 16, 2018 **»** [每日一看」npm升级所有可更新包](https://segmentfault.com/a/1190000005857342)  
+     <font color=#666 size=2 face="华文行楷">一句话：稳妥点在PowerShell 中执行npm-check -u -g</font>
+-   July 16, 2018 **»** [每日一看」详解reduce方法](https://blog.csdn.net/liuchao1987330/article/details/78903151)  
+     <font color=#666 size=2 face="华文行楷">一句话：理解这是啥arr.reduce(callback(begin,current,index,arr)[, initialValue])</font>
+
+---
+
 -   July 15, 2018 **»** [每日一看」[翻译]阮一峰 webpack 教程（Demo 集合）](https://juejin.im/post/5b42d4dce51d45195c070cd0?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)  
      <font color=#666 size=2 face="华文行楷">一句话：敲一遍，多多输入</font>
 -   July 16, 2018 **»** [每日一看」面试官：请手写一个webpack4.0配置](https://juejin.im/post/5b42d4dce51d45195c070cd0?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)  
