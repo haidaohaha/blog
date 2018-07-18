@@ -18,7 +18,15 @@ _知道差距，巨大差距_
 
 ---
 
--   July 16, 2018 **»** [每日一看」Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0)  
+-   July 18, 2018 **»** [每日一看」Webpack 4 实战 React 和 Vue 项目](https://beanlee.github.io/2018/06/11/something-about-webpack-4/)  
+     <font color=#666 size=2 face="华文行楷">一句话：本来是为了看webpack，我尽然被github搭建的博客吸引的果然是做前端的，本节着重实践</font>
+
+-   July 18, 2018 **»** [每日一看」git-rebase 超级详细讲解，我竟然看完了](https://blog.csdn.net/laxian2009/article/details/50593898)  
+     <font color=#666 size=2 face="华文行楷">一句话：本来觉得看着绝对头皮发麻，结果尽然看完了，虽然没说具体如何解决，但以有想法</font>
+
+---
+
+-   July 17, 2018 **»** [每日一看」Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0)  
      <font color=#666 size=2 face="华文行楷">一句话：来来撸一把</font>
 
 ---
