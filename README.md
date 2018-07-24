@@ -18,6 +18,14 @@ _知道差距，巨大差距_
 
 ---
 
+-   July 24, 2018 **»** [每日一看」[译] 图解 React](https://zhuanlan.zhihu.com/p/39658720)  
+     <font color=#666 size=2 face="华文行楷">一句话：React 的三大核心是啥？惭愧.....，如果能理解‘响应式 UI’（不是布局）可不用看</font>
+
+-   July 24, 2018 **»** [每日一看」[翻译]React组件模式](https://segmentfault.com/a/1190000015710309)  
+     <font color=#666 size=2 face="华文行楷">一句话：可惜了，我并没有从头撸一把</font>
+
+---
+
 -   July 19, 2018 **»** [每日一看」【译】5分钟学习 JS 一些小技巧](https://juejin.im/post/5b42bb9ce51d45199060e199#comment)  
      <font color=#666 size=2 face="华文行楷">一句话：看得懂这个就可以不看了 JSON.stringify(obj, null, 4);</font>
 
