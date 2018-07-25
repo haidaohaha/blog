@@ -18,6 +18,14 @@ _知道差距，巨大差距_
 
 ---
 
+-   July 25, 2018 **»** [每日一看」前端常见跨域解决方案（全）](https://segmentfault.com/a/1190000011145364)  
+     <font color=#666 size=2 face="华文行楷">一句话："Domain=www.domain2.com;HttpOnly"还记得不，记得可不用看</font>  
+
+-   July 25, 2018 **»** [每日一看」面试图谱：前端基础技术知识讲解](https://juejin.im/post/5b5567b25188256256696ee0?utm_source=gold_browser_extension#heading-17)  
+     <font color=#666 size=2 face="华文行楷">一句话：看到"金九银十"我心动了😍😍😍</font>
+
+---
+
 -   July 24, 2018 **»** [每日一看」[译] 图解 React](https://zhuanlan.zhihu.com/p/39658720)  
      <font color=#666 size=2 face="华文行楷">一句话：React 的三大核心是啥？惭愧.....，如果能理解‘响应式 UI’（不是布局）可不用看</font>
 
