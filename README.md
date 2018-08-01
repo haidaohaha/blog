@@ -18,6 +18,11 @@ _知道差距，巨大差距_
 
 ---
 
+-   July 31, 2018 **»** [每日一看」hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)  
+     <font color=#666 size=2 face="华文行楷">一句话：这个月的最后一天，起个blog</font>  
+
+---
+
 -   July 26, 2018 **»** [每日一看」浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)  
      <font color=#666 size=2 face="华文行楷">一句话：想用h2你需要https还要会配置nginx...知道的太多了😷😷😷</font>  
 
@@ -41,9 +46,6 @@ _知道差距，巨大差距_
 
 -   July 19, 2018 **»** [每日一看」【译】5分钟学习 JS 一些小技巧](https://juejin.im/post/5b42bb9ce51d45199060e199#comment)  
      <font color=#666 size=2 face="华文行楷">一句话：看得懂这个就可以不看了 JSON.stringify(obj, null, 4);</font>
-
--   July 19, 2018 **»** [每日一看」git-rebase 超级详细讲解，我竟然看完了](https://blog.csdn.net/laxian2009/article/details/50593898)  
-     <font color=#666 size=2 face="华文行楷">一句话：本来觉得看着绝对头皮发麻，结果尽然看完了，虽然没说具体如何解决，但已有想法</font>
 
 ---
 
