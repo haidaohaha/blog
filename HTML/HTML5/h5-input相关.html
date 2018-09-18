@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>input相关</title>
+    <style>
+        section {
+                    margin-bottom: 20px;
+                }
+    </style>
+</head>
+
+<body>
+    <section>
+        <p>13个新的input类型</p>
+        <input type="color">颜色<br>
+        <input type="email">邮箱<br>
+        <input type="number" min="0" max="5">数字<br>
+        <input type="range" min="0" max="5">滑块<br>
+        <input type="search">搜索<br>
+        <input type="tel">电话<br>
+        <input type="url">URL地址<br>
+        <input type="date">日期<br>
+        <input type="datetime">日期和时间（世界统一时间）<br>
+        <input type="datetime-local">日期和时间 (无时区)<br>
+        <input type="month">月份<br>
+        <input type="time">时间<br>
+        <input type="week">周和年<br>
+    </section>
+    <section>
+        <p>novalidate属性：在提交表单时不应该验证 form 或 input 域。</p>
+        <form novalidate>
+            <input type="email">
+            <input type="submit" value="save">
+        </form>
+    </section>
+    <section>
+        <form>
+            <input type="email">
+            <input type="submit" value="save">
+        </form>
+    </section>
+    <section>
+        <p>autofocus 属性：在页面加载时，域自动地获得焦点。</p>
+        <input type="text" autofocus>
+    </section>
+    <section>
+        <p>form 属性：规定input输入是属于哪个表单的。</p>
+        <form id="demo">
+            <input type="text">
+            <input type="submit" value="save">
+        </form>
+        <input type="text" form="demo">
+    </section>
+    <section>
+        <p>pattern 属性：描述一个正则表达式用于验证 'input' 元素的值。</p>
+        <form id="demo">
+            <input type="text" pattern="[0-9]{3}">
+            <input formtarget="_blank" type="submit" value="save2">
+        </form>
+    </section>
+    <section>
+        <p>required 属性：规定必须在提交之前填写输入域（不能为空）。</p>
+        <form id="demo">
+            <input type="text" required>
+            <input formtarget="_blank" type="submit" value="save2">
+        </form>
+    </section>
+    <section>
+        <p>placeholder 属性：提示用户输入域所期待的值。</p>
+        <form id="demo">
+            <input type="text" placeholder="请输入用户名">
+            <input formtarget="_blank" type="submit" value="save2">
+        </form>
+    </section>
+
+</body>
+
+</html>

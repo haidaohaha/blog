@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML5 配图不错</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+
+        .size {
+            width: 600px;
+            height: 600px;
+        }
+
+        .box {
+            text-align: center;
+            background-color: lavender;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-left: -300px;
+            margin-top: 200px;
+        }
+
+        header,
+        nav,
+        footer {
+            background-color: #666;
+            height: 50px;
+            line-height: 50px;
+        }
+
+        header {   
+            margin-bottom: 10px;
+        }
+
+        nav {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        article {
+            position: absolute;
+            width: 400px;
+            top: 120px;
+            left: 0;
+            height: 420px;
+            background-color: #666;
+        }
+
+        aside {
+            width: 180px;
+            height: 420px;
+            position: absolute;
+            top: 120px;
+            margin-left: 420px;
+            background-color: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box size">
+        <header>header</header>
+        <nav>nav</nav>
+        <article>
+            <p>article</p>
+            <section>section</section>
+        </article>
+        <aside>aside</aside>
+        <footer>footer</footer>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>output</title>
+</head>
+
+<body>
+    <p>'output'标签：标签定义不同类型的输出。</p>
+    <p>比如脚本的输出、一些加减乘除的运算结果，我们都可以使用这个标签</p>
+    <form oninput="b.value = parseInt(a.value)*2">
+        <input type="number" name="a">乘以2=
+        <output name="b"></output>
+    </form>
+
+    <hr>
+    <p>'output'标签也可以单独拿出来，使用。</p>
+    <form id="demo" oninput="b.value = parseInt(a.value)*2">
+        <input type="number" name="a"> 乘以2=
+    </form>
+    <output form="demo" name="b" for="a"></output>
+</body>
+
+</html>
