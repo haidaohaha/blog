@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>清除浮动几种方式</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box1 {
+            width: 1000px;
+            border: 10px solid red;
+            /*  清除浮动的父级设固定高度 */
+            /*height: 100px;*/
+        }
+
+        p {
+            width: 100px;
+            height: 100px;
+            background: skyblue;
+            float: left;
+            margin-left: 10px;
+        }
+
+        .box2 {
+            /*  紧跟其后的标签设置clear，清除浮动 ，外墙法*/
+            /*clear: both;*/
+            width: 1000px;
+            border: 10px solid red;
+        }
+
+        /*span{*/
+        /*!*  内墙法 *!*/
+        /*display: block;*/
+        /*clear: both;*/
+        /*}*/
+        /*.overflowhidden{*/
+        /*overflow: hidden;*/
+        /*}*/
+
+        /*  伪类清除浮动 */
+        .clearfix {
+            *zoom: 1;
+        }
+
+        /* // \A是ASCII码不是A， 不过你也可以使用 空格 */
+        /* '\A' 提升逼格用的 */
+
+        .clearfix:after {
+            content: '\A';  
+            display: block;
+            clear: both;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box1 clearfix">
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <!--<span></span>-->
+    </div>
+    <div class="box2 clearfix">
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+    </div>
+
+</body>
+
+</html>
